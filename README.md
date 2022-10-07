@@ -2,6 +2,9 @@
 
 ### The Problem:
 
+![alt text](https://github.com/pedrov718/Bianary-Hate-Speech-Classification/blob/main/figures/hate_speech_no_stops_word_bubble.png)
+
+
 Social media has become a vital part of our modern society, from political elections to fashion and education,
 social media like Twitter, Reddit, Instagram, and Meta have truly become all-encompassing. However for many of the great benefits that social media
 provides there are some terrible consequences. Cyberbullying, racism/hate speech, and profanity run rampant.
