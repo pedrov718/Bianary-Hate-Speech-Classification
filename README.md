@@ -13,7 +13,7 @@ care for others.
 
 ### The Data:
 
-Using a dataset collected by UC Berkley researcher I was able to get a human labled dataset with 135553 text samples, each labled as hate speech or not hatespeech. 
+Using a dataset collected by UC Berkley researcher I was able to get a human labled dataset with 135553 text samples, each labled as hate speech or not hatespeech. More information about the dataset and methods to how to download it can be found here: https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech
 
 ![10_most_frequnet_words_withstops](https://user-images.githubusercontent.com/82776178/194624370-c27c1171-6d0a-4146-8922-04e8d6253a4a.png)
 
