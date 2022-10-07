@@ -19,8 +19,6 @@ Using a dataset collected by UC Berkley researcher I was able to get a human lab
 
 ![alt text](https://github.com/pedrov718/Bianary-Hate-Speech-Classification/blob/2ac81607cdcffda21c9dd36c9f40aa63f179e0b9/figures/10_most_frequnet_words_nostops.png)
 
-![percent_hate](https://user-images.githubusercontent.com/82776178/194624408-6aa3ef46-db8b-4f5f-b312-04dd8303c7ea.png)
-
 ### The Solution:
 #### Keep safe spaces safe!
 
