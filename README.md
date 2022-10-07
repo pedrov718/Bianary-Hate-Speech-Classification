@@ -11,6 +11,12 @@ provides there are some terrible consequences. Cyberbullying, racism/hate speech
 Social media has become like the wild wild west, with law-less entities wantonly posting content without concern or
 care for others.
 
+### The Data:
+
+Using a dataset collected by UC Berkley researcher I was able to get a human labled dataset with 135553 text samples, each labled as hate speech or not hatespeech. 
+
+![alt text](https://github.com/pedrov718/Bianary-Hate-Speech-Classification/blob/2ac81607cdcffda21c9dd36c9f40aa63f179e0b9/figures/10_most_frequnet_words_nostops.png)
+
 ### The Solution:
 
 As much as we would like to prevent the future of George Orwell's big brother from ever becoming reality we must accept
