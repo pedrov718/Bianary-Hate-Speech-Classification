@@ -15,8 +15,11 @@ care for others.
 
 Using a dataset collected by UC Berkley researcher I was able to get a human labled dataset with 135553 text samples, each labled as hate speech or not hatespeech. 
 
+![10_most_frequnet_words_withstops](https://user-images.githubusercontent.com/82776178/194624370-c27c1171-6d0a-4146-8922-04e8d6253a4a.png)
+
 ![alt text](https://github.com/pedrov718/Bianary-Hate-Speech-Classification/blob/2ac81607cdcffda21c9dd36c9f40aa63f179e0b9/figures/10_most_frequnet_words_nostops.png)
 
+![percent_hate](https://user-images.githubusercontent.com/82776178/194624408-6aa3ef46-db8b-4f5f-b312-04dd8303c7ea.png)
 
 ### The Solution:
 #### Keep safe spaces safe!
@@ -32,8 +35,11 @@ accuracy of 87.65%. But accuracy score was not the metric that I was most concer
 
 Some of my most important features for my model were the following words: 
 
+![top20_feature_importance_bargraph](https://user-images.githubusercontent.com/82776178/194624429-0743c1a6-152c-4541-b083-2fa78f697278.png)
+
 ![top20_feature_importance](https://user-images.githubusercontent.com/82776178/194624166-f2159849-72fa-4967-af20-ef2a6e1d01cf.png)
 
+For more information you can view my presentation here: https://docs.google.com/presentation/d/16TsQ3jTNRKx3UbBn3JQ7t2YNRoeXbVfK08hsS6EBVuQ/edit?usp=sharing
 
 ### The implementation:
 
